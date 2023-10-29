@@ -25,7 +25,7 @@ I love to code and create interesting projects. Here are a few noteworthy ones:
 - [Monte Carlo Simulations](https://github.com/jyotiraj-code/monte-carlo): This repo contains the basic monte carlo simulations which are essential in physics and mathematics.
 - [Lorenz System](https://github.com/jyotiraj-code/lorenz-system): This project contains the simulation of the Lornez Attractor which is famously called as the butterfly effect simulation.
 
-You can explore more of my work on my [GitHub repositories](https://github.com/jyotiraj-code).
+You can explore more of my work on my [GitHub repositories](https://github.com/jyotiraj-code?tab=repositories).
 
 ## Blog
 
