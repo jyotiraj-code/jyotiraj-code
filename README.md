@@ -7,6 +7,8 @@ I'm a passionate quantum computing developer and physics student at NIT Surat wh
 - 💞️ I'm looking to collaborate on exciting projects related to Quantum Computation, Quantum Information and related Quantum Technology stacks. Let's build cool stuff together!
 - 📫 How to reach me: Feel free to contact me via email at [jyotirajnath7@gmail.com], or connect with me on [LinkedIn](https://www.linkedin.com/in/jyotiraj-nath/) or [Twitter](https://twitter.com/nath_jyotiraj).
 
+**You can also connect with me through my [Website](https://jyotiraj-code.github.io/resume/)**
+
 ## My Tech Stack
 
 Here are some of the technologies and tools I work with:
