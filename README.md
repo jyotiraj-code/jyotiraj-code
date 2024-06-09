@@ -1,5 +1,6 @@
 # Nice to see you here!, I'm Jyotiraj 👋
 
+![](https://komarev.com/ghpvc/?username=jyotiraj-code)
 I'm a passionate quantum computing developer and physics student at NIT Surat who loves to explore new technologies. Here's a bit more about me:
 
 - ⚛️ I'm interested in Quantum information and Quantum Techonologies 
