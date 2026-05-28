@@ -3,12 +3,10 @@
 
 
 <div id="header" align="center">
-  <img align="center" width=750px height=350px alt="side_sticker" src="" />
+  <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/jyotiraj-code/jyotiraj-code/blob/main/jujutsukaisen.gif" />
 
 </div>
-<h1 align="center"><a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Hind+Siliguri&pause=1000&color=2EC8F7&center=true&width=435&lines=%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0+%F0%9F%99%8F+!!+This+is+Aheli+:);Learning%2C+exploring+and+keeping+it+real+!" />
-</a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Flex&weight=600&pause=1000&color=6D77F7&center=true&vCenter=true&width=435&lines=Hola+Amigos%2C+%E0%A6%86%E0%A6%AE%E0%A6%BF+%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C+%F0%9F%98%81;Learn%2C+Execute+and+Document;Data+might+lie!" alt="Typing SVG" /></a>
 
 
 </h1>
