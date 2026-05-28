@@ -15,7 +15,7 @@
 <table>
   <tr>
 <!--     <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td> -->
-    <td><img src="https://komarev.com/ghpvc/?username=jyotiraj-code&style=for-the-badge&color=46b9b9&label=You+are+Visitor&base=" alt="GitHub Profile Views Counter" /></td>
+    <td><img src="https://komarev.com/ghpvc/?username=jyotiraj-code&style=for-the-badge&color=46b9b9&label=You+are+Visitor" alt="GitHub Profile Views Counter" /></td>
   </tr>
 </table>
 </div>
