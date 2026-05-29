@@ -22,8 +22,8 @@
 
 
 <div align="center">
-  <a href="https://github.com/sponsors/XAheli">
-    <img src="https://img.shields.io/badge/sponsor-XAheli-pink" alt="Sponsor XAheli" />
+  <a href="https://github.com/sponsors/jyotiraj-code/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/sponsor-Jyotiraj_Nath-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Jyotiraj Nath" />
   </a>
 </div>
 
