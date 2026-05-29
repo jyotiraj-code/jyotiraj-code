@@ -84,23 +84,22 @@
 - Programming Frameworks and Libraries<br>
 
     <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" height="23px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-    <a href="https://keras.io/" target="_blank"><img alt="Keras" height="23px" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>
+    <!-- <a href="https://keras.io/" target="_blank"><img alt="Keras" height="23px" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a> -->
     <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" height="23px" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
     <a href="https://scikit-learn.org/stable/" target="_blank"><img alt="scikit-learn" height="23px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-    <a href="https://opencv.org/" target="_blank"><img alt="OpenCV" height="23px" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /></a>
+    <!-- <a href="https://opencv.org/" target="_blank"><img alt="OpenCV" height="23px" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /></a> -->
 - Programming Languages & Operating System<br>
-
+<a href="https://julialang.org/" target="_blank" rel="noopener noreferrer"><img alt="Julia" height="23px" src="https://img.shields.io/badge/Julia-black.svg?style=for-the-badge&logo=julia&logoColor=white" /></a>
     <a href="https://www.python.org/" target="_blank"><img alt="Python" height="23px" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
     <img alt="HTML" height="23px" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="C++" height="23px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="C" height="23px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" height="23px" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /></a> <img alt="Windows 10" height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 - IDEs/Editors<br>
 
     <a href="https://jupyter.org/" target="_blank"><img alt="Jupyter" height="23px" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" height="23px" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
-    <a href="https://www.arduino.cc/en/software" target="_blank"><img alt="Arduino" height="23px" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
-      <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio" height="23px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></a>
+    <!-- <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img alt="PyCharm" height="23px" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a> -->
+    <!-- <a href="https://www.arduino.cc/en/software" target="_blank"><img alt="Arduino" height="23px" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a> -->
+      <!-- <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio" height="23px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></a> -->
      <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" height="23px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 
 <div align="center">
