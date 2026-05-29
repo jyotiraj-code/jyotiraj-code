@@ -32,13 +32,13 @@
 </h1>
 <img align="right" width=280px height=150px alt="side_sticker" src="https://github.com/jyotiraj-code/jyotiraj-code/blob/main/monsteranime.gif" />
 <br>
-<p><em>Keep the GRIT UP<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VkdnozcTE3M2FtMWxxOXp3dTdrNHdpMnZpZThwcTBtcGNscDdidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nbr4zVb3rQKsIR3o5d/giphy.gif" width="30"> 
+<p><em>Keep the GRIT UP<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc5eXVwZm44a2JpZGc1NzF3MXpoYjFsYW9yaW5vNTB3d2ZoeDlyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmbybxMJ3sRvKBV5qw/giphy.gif" width="30"> 
 </em></p>
 
 <br>
 
 <p>
-    <a href="https://twitter.com/XAheli"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/aheli-poddar-263294216/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/aheli.poddar/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971602-39e1cdba-e93a-4702-abda-52f93049fcbc.svg"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/xaheli__/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
