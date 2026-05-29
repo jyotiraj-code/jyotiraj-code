@@ -130,7 +130,7 @@
 
 ## ✍️ Latest on Medium
 
-[![Latest Medium Posts](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=jyotirajnath7&theme=dracula&limit=3)](https://medium.com/@jyotirajnath7)
+[![Medium](https://github-readme-medium.vercel.app/?username=jyotirajnath7&limit=3)](https://medium.com/@jyotirajnath7)
 
 
 ## 🎋 Activity!
