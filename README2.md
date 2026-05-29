@@ -50,21 +50,19 @@
 </p>
 
 
-
+<!-- More informatin about myself -->
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more about me...</h2>
 
-- 🎓 Final year undergrad.
-- 🔍 Exploring the beauty of geometry graphs through patient solving.
-- ➗ Mathematics enthusiast, particularly drawn to stochastic processes and real analysis.
-- 📚 Currently engrossed in Nielson & Chuang.
-- ⚙️ Intrigued by quantum machine learning and its potential for portfolio optimization.
-- 🔭 I’m currently working on Strong Gravitational Lensing and QCNNs.
-- 🌱 I’m currently learning KDB Tree, Li Chao Tree.
-- 👯 I’m looking to collaborate on QML, Monte Carlo Methods.
-- 🤔 I’m looking for help with HMMs.
-- 📫 How to reach me: ahelipoddar2003@gmail.com (quickest option)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a huge cinephile and RMD geek!
+- 🎓 First Year QTA PhD Student at Massey University, New Zealand
+- 🔍 Exploring the Dynamics of Analouge Quantum Simulators
+- ➗ Monte Carlo methods and numeical techniques
+- 📚 Reading literatures on solving time dependent Schrödinger Equation
+- ⚙️ Developing in Julia ecosystem
+- 🔭 I've previously worked on Quantum Information and Tensor Networks
+- 👯 Open for discussions and collaborations on topics which involve data and science
+- 📫 How to reach me: jyotirajnath7@gmail.com (quickest option)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I make digital illustrations too!
 
 
 <p align="center">
