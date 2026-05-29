@@ -84,10 +84,9 @@
 - Programming Frameworks and Libraries<br>
 
     <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" height="23px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-    <!-- <a href="https://keras.io/" target="_blank"><img alt="Keras" height="23px" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a> -->
     <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" height="23px" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
     <a href="https://scikit-learn.org/stable/" target="_blank"><img alt="scikit-learn" height="23px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-    <!-- <a href="https://opencv.org/" target="_blank"><img alt="OpenCV" height="23px" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" /></a> -->
+
 - Programming Languages & Operating System<br>
 <a href="https://julialang.org/" target="_blank" rel="noopener noreferrer"><img alt="Julia" height="23px" src="https://img.shields.io/badge/Julia-black.svg?style=for-the-badge&logo=julia&logoColor=white" /></a>
     <a href="https://www.python.org/" target="_blank"><img alt="Python" height="23px" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -135,12 +134,18 @@
 ## 🎋 Activity!
 
 </td><td valign="top" width="40%">
-<a href="https://open.spotify.com/user/n6ucfwtlprmz4lop5eqlfnbvx"><img src="https://spotify-recently-played-readme.vercel.app/api?user=n6ucfwtlprmz4lop5eqlfnbvx&width=400&count=3" width="380px"></a>
+<a href="https://open.spotify.com/user/jqg14u9rt75purncfferrw7w6" target="_blank" rel="noopener noreferrer">
+  <img
+    alt="Spotify recently played"
+    src="https://spotify-recently-played-readme.vercel.app/api?user=jqg14u9rt75purncfferrw7w6&width=400&count=3"
+    width="380px"
+  />
+</a>
 </td><td valign="top" width="18%">
-<a href="https://cal.com/xaheli" target="_blank"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="205px"></a>
+<a href="https://cal.com/jyotiraj-nath-ou1gnk/30min" target="_blank"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="205px"></a>
 </td></tr></table>
 
 <br/>
 
 
-![Aheli Poddar](./bottom_header.svg)
+![Jyotiraj Nath](./bottom_header.svg)
