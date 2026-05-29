@@ -128,10 +128,13 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+## ✍️ Latest on Medium
 
+[![Latest Medium Posts](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=jyotirajnath7&theme=dracula&limit=3)](https://medium.com/@jyotirajnath7)
 
 
 ## 🎋 Activity!
+
 
 </td><td valign="top" width="40%">
 <a href="https://open.spotify.com/user/jqg14u9rt75purncfferrw7w6" target="_blank" rel="noopener noreferrer">
