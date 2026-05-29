@@ -134,11 +134,8 @@
 ## 🎋 Activity!
 
 </td><td valign="top" width="40%">
-  <img
-    alt="Spotify recently played"
-    src="https://spotify-recently-played-readme.vercel.app/api?user=jqg14u9rt75purncfferrw7w6&width=400&count=3"
-    width="380px"
-  />
+<a href="https://open.spotify.com/user/jqg14u9rt75purncfferrw7w6" target="_blank" rel="noopener noreferrer">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=jqg14u9rt75purncfferrw7w6&width=400&count=3" alt="Spotify recently played" />
 </a>
 </td><td valign="top" width="18%">
 <a href="https://cal.com/jyotiraj-nath-ou1gnk/30min" target="_blank"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="205px"></a>
