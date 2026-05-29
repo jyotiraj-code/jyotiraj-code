@@ -134,35 +134,12 @@
 ## 🎋 Activity!
 
 </td><td valign="top" width="40%">
-<a href="https://open.spotify.com/user/jqg14u9rt75purncfferrw7w6" target="_blank" rel="noopener noreferrer">
-  <img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg" alt="Spotify" />
+  <img
+    alt="Spotify recently played"
+    src="https://spotify-recently-played-readme.vercel.app/api?user=jqg14u9rt75purncfferrw7w6&width=400&count=3"
+    width="380px"
+  />
 </a>
-
-<br>
-
-<table>
-  <tr>
-    <td><img src="https://i.scdn.co/image/ab67616d000048510d4a633faf7e761b02e284c3" width="64" alt="Le Roi Est Mort, Vive Le Roi!" /></td>
-    <td>
-      <b>T.N.T. For The Brain</b><br>
-      Enigma
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://i.scdn.co/image/ab67616d000048510d4a633faf7e761b02e284c3" width="64" alt="Le Roi Est Mort, Vive Le Roi!" /></td>
-    <td>
-      <b>The Child In Us</b><br>
-      Enigma
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://i.scdn.co/image/ab67616d000048510d4a633faf7e761b02e284c3" width="64" alt="Le Roi Est Mort, Vive Le Roi!" /></td>
-    <td>
-      <b>Shadows In Silence</b><br>
-      Enigma
-    </td>
-  </tr>
-</table>
 </td><td valign="top" width="18%">
 <a href="https://cal.com/jyotiraj-nath-ou1gnk/30min" target="_blank"><img src="https://i.postimg.cc/8zMy25r3/schedule-Ca-L.webp" width="205px"></a>
 </td></tr></table>
