@@ -38,15 +38,15 @@
 <br>
 
 <p>
-    <a href="https://twitter.com/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aheli-poddar-263294216/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/aheli.poddar/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971602-39e1cdba-e93a-4702-abda-52f93049fcbc.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/xaheli__/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/856785270561177600"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
-    <a href="https://matrix.to/#/@xaheli:gitter.im"><img height="28" src="https://user-images.githubusercontent.com/48355572/217186918-e775a18c-2b5d-43e6-9218-990b5c02b99c.svg"></a>&nbsp;&nbsp;
-    <a href="https://gitlab.com/XAheli"><img height="29" src="https://user-images.githubusercontent.com/48355572/229457184-524c372d-8067-48ac-a09e-444010da9ffd.png"></a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/@XAheli"><img height="30" src="https://user-images.githubusercontent.com/48355572/226551770-c02e6606-b4bf-4cfa-9f95-e36147025a5d.svg"></a>&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/n6ucfwtlprmz4lop5eqlfnbvx?si=5ecefdabce284f1a"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg"></a>
+    <a href="https://x.com/nath_jyotiraj"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jyotiraj-nath/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
+    <!-- <a href="https://www.facebook.com/aheli.poddar/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971602-39e1cdba-e93a-4702-abda-52f93049fcbc.svg"></a>&nbsp;&nbsp; -->
+    <a href="https://www.instagram.com/._jyotiraj_/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971691-1a612ff3-ac3b-456a-8237-aa74a423b59c.svg"></a>&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/835358223661662218"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
+    <!-- <a href="https://matrix.to/#/@xaheli:gitter.im"><img height="28" src="https://user-images.githubusercontent.com/48355572/217186918-e775a18c-2b5d-43e6-9218-990b5c02b99c.svg"></a>&nbsp;&nbsp; -->
+    <!-- <a href="https://gitlab.com/XAheli"><img height="29" src="https://user-images.githubusercontent.com/48355572/229457184-524c372d-8067-48ac-a09e-444010da9ffd.png"></a>&nbsp;&nbsp; -->
+    <!-- <a href="https://www.youtube.com/@XAheli"><img height="30" src="https://user-images.githubusercontent.com/48355572/226551770-c02e6606-b4bf-4cfa-9f95-e36147025a5d.svg"></a>&nbsp;&nbsp; -->
+    <a href="https://open.spotify.com/user/jqg14u9rt75purncfferrw7w6"><img height="30" src="https://user-images.githubusercontent.com/48355572/213890881-d6f20dfa-2c5e-4c57-a8d8-d06b276bba50.svg"></a>
 </p>
 
 
